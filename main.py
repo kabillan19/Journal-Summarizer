@@ -9,7 +9,7 @@ llm = ChatGroq(
     model="llama-3.1-70b-versatile",
     temperature=1,
     max_tokens=4096,  
-    groq_api_key="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"
+    groq_api_key="API-KEY"
 )
 
 if st.button("Submit"):
