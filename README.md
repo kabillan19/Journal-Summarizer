@@ -49,12 +49,4 @@ The app will produce a summarized journal entry based on the input prompt provid
 - Ensure that your `groq_api_key` is valid and has access to the required services.
 - Make sure you have the necessary Python packages installed.
 
-## License
 
-This project is licensed under the MIT License.
-
-## Acknowledgments
-
-- Thanks to the Streamlit and LangChain teams for creating such powerful tools for building AI applications.
-
-```
