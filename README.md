@@ -1,6 +1,3 @@
-Here's a `README.md` file you can use for your Streamlit app:
-
-```markdown
 # AI-Powered Daily Journal Summarizer
 
 This is a simple Streamlit app that uses the LLaMA 3.1 model with Groq capabilities to generate summaries of daily journal entries based on user-provided prompts. The app is designed to make it easy to create and analyze journal entries using advanced AI language models.
