@@ -8,7 +8,7 @@ prompt = st.text_input("Enter your prompt")
 llm = ChatGroq(
     model="llama-3.1-70b-versatile",
     temperature=1,
-    max_tokens=4096,  # Adjusted to the correct max tokens limit
+    max_tokens=4096,  
     groq_api_key="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"
 )
 
