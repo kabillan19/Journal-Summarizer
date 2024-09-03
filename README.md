@@ -14,8 +14,8 @@ To run this app locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/kabillan19/Journal-Summarizer)
+   cd Journal-Summarizer
    ```
 
 2. **Install the required dependencies:**
