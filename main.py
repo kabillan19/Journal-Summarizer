@@ -10,7 +10,7 @@ llm = ChatGroq(
     temperature=1,
 <<<<<<< HEAD
     max_tokens=4096,  # Adjusted to the correct max tokens limit
-    groq_api_key="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"
+    groq_api_key="API_KEY"
 =======
     max_tokens=4096,  
     groq_api_key="API-KEY"
